@@ -1,6 +1,6 @@
 # Dot-Files
 
-My Arch Linux configuration files
+My minimalist Arch Linux configuration files
 
 ![](screenshot.png)
 
