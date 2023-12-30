@@ -8,7 +8,7 @@ My minimalist Arch Linux configuration files
 
 ### Software
 - Operating System: Arch Linux
-- Window Manger: dwm
+- Window Manger: [dwm](https://github.com/alexphanna/dwm)
 - Terminal Emulator: st
 - Network Manager: systemd-networkd
 - Internet Browser: Firefox
