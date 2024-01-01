@@ -6,6 +6,7 @@ alias code='code --wait'
 alias config='/usr/bin/git --git-dir="$HOME/.dotfiles/" --work-tree="$HOME"'
 
 export EDITOR='code'
+export BROWSER='firefox'
 
 # Dark mode
 export GTK_THEME=Adwaita:dark
