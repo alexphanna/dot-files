@@ -1,3 +1,5 @@
 [user]
 	email = ahanna0608@gmail.com
 	name = Alex Hanna
+[credential]
+	helper = libsecret
