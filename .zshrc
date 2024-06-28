@@ -21,5 +21,8 @@ export JDK_JAVA_OPTIONS='-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -D
 
 PROMPT="%F{#0080ff}%~%f > "
 
+bindkey "^[[1;3C" forward-word
+bindkey "^[[1;3D" backward-word
+
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
